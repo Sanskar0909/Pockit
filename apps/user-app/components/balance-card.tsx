@@ -1,5 +1,4 @@
 "use client"
-
 import { userAtom } from "@repo/store"
 import { Card, CardContent, CardHeader, CardTitle } from "@ui/components/ui/card"
 import { useAtomValue } from "jotai"
